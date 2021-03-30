@@ -18,7 +18,7 @@
   ```
  - Now you can play 
  
-## You can see my calculator here <br>
+## You can see my game here <br>
 ![Image](view.jpg)
 
 # Thank you for your attention to my project!!!
