@@ -20,11 +20,15 @@
 ![Image](view.jpg)
 
 # In this game you can choose colors of:
-+ Ball
-+ Paddle
 + Score
++ Paddle
++ Ball
 ### To do this, you need to open ball.py and inject colors into these variables:
-![Image](colors.jpg)
+```
+Score_color = "blue"
+paddle_color = "green"
+ball_color = "green"
+```
 # Now you can play 
 # Thank you for your attention to my project!!!
 # Good Luck!!!
