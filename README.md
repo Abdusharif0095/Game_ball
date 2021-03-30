@@ -21,5 +21,10 @@
 ## You can see my game here <br>
 ![Image](view.jpg)
 
+# In this game you can choose colors:
++ Ball
++ Paddle
++ Score
+
 # Thank you for your attention to my project!!!
 # Good Luck!!!
