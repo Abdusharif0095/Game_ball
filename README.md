@@ -16,8 +16,6 @@
   ```
   python ball.py
   ```
- - Now you can play 
- 
 ## You can see my game here <br>
 ![Image](view.jpg)
 
@@ -27,5 +25,6 @@
 + Score
 ### To do this, you need to open ball.py and inject colors into these variables:
 ![Image](colors.jpg)
+# Now you can play 
 # Thank you for your attention to my project!!!
 # Good Luck!!!
