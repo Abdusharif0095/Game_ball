@@ -21,7 +21,7 @@
 ## You can see my game here <br>
 ![Image](view.jpg)
 
-# In this game you can choose colors:
+# In this game you can choose colors of:
 + Ball
 + Paddle
 + Score
