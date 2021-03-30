@@ -25,7 +25,7 @@
 + Ball
 + Paddle
 + Score
-###To do this, you need to open ball.py and enter colors in the attributes:
-
+### To do this, you need to open ball.py and inject colors into these variables:
+![Image](colors.jpg)
 # Thank you for your attention to my project!!!
 # Good Luck!!!
