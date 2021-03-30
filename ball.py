@@ -4,7 +4,7 @@ import random
 
 tk = Tk()
 
-tk.title('Game')
+tk.title('Ball')
 tk.resizable(0, 0)
 tk.wm_attributes('-topmost', 1)
 
