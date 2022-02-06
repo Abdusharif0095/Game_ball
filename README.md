@@ -29,6 +29,6 @@ Score_color = "blue"
 paddle_color = "green"
 ball_color = "green"
 ```
-# Now you can play 
+# Now press enter and start game! 
 # Thank you for your attention to my project!!!
 # Good Luck!!!
